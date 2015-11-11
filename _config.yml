@@ -1,6 +1,6 @@
 name: Chris Purchase
 favicon: null
-layout_spectrum: 0.24730412289500237
+layout_spectrum: 1
 typography_spectrum: 0.3577465214766562
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#977269'
-    - '#040301'
-    - '#3f2a25'
-    - '#fdd5b2'
-    - '#d0a292'
+    - '#010101'
+    - '#005e77'
+    - '#fffdfd'
+    - '#8e8e8e'
+    - '#ebaa14'
   brandStrength: 0.5625
   lightness: 0.023488570703193545
   saturation: 0.05844978685490787
-  rhythmicContrast: 0.5534114614129066
+  rhythmicContrast: 1
 purpose: []
